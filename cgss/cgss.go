@@ -9,6 +9,7 @@ import (
 	"./src/ipc"
 )
 
+
 var centerClient *cg.CenterClient
 
 func startCenterService() error {
